@@ -1,9 +1,13 @@
 Introduction
+
+
 The dataset provides a comprehensive array of variables aimed at understanding various aspects related to heart disease and overall health among respondents. It includes information on factors such as whether individuals have reported coronary heart disease or myocardial infarction, their body mass index (BMI), smoking habits, alcohol consumption, history of stroke, physical and mental health status, presence of difficulty in walking or climbing stairs, demographic details such as sex, age category, and race/ethnicity, diabetic status, physical activity levels, general health perception, sleep patterns, and history of conditions like asthma, kidney disease, and skin cancer.
 
 These variables offer insights into the interplay between lifestyle choices, health conditions, and the prevalence of heart disease. By examining factors such as BMI, smoking, alcohol consumption, physical activity, and overall health status, researchers can gain a deeper understanding of the risk factors associated with heart disease and inform interventions aimed at prevention and management.
 
 Analysis Objective
+
+
 This analysis is intended to find out the
 Understanding the distribution of respondents based on variables such as age category, sex, race/ethnicity, and other demographic factors.
 
